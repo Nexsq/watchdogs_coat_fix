@@ -1,21 +1,12 @@
-\## ▪ Installing
+## ▪ Installing
 
-just move dinput8.dll into the watchdogs/bin folder (right next to watch\_dogs.exe)
-a file named wd\_coat\_fix.log will contain logs
+just move the dinput8.dll file into the Watch_Dogs\bin folder (right next to watch_dogs.exe)
+a file named wd_coat_fix.log will contain logs
 
+---
 
-
-\---
-
-
-
-\## ▪ Building Yourself
+## ▪ Building Yourself
 
 ```
-
 cargo build --release --target x86\_64-pc-windows-msvc
-
 ```
-
-
-
