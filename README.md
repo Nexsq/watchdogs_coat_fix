@@ -8,5 +8,5 @@ a file named wd_coat_fix.log will contain logs
 ## ▪ Building Yourself
 
 ```
-cargo build --release --target x86\_64-pc-windows-msvc
+cargo build --release --target x86_64-pc-windows-msvc
 ```
